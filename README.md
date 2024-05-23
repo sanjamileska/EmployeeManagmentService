@@ -1,6 +1,6 @@
 Employee Managment Service
 
-This project is Rest Api using SpringBoot, PostgreSQL, Spring Data JPA 
+This project is Rest Api using Java,SpringBoot, PostgreSQL, Spring Data JPA 
 Here you can add employee,get by ID, edit information about the employee.
 
 Dependencies
